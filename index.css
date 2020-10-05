@@ -1,0 +1,57 @@
+#mapid{
+    height:40vw;
+    width:55vw;
+}
+
+h1{
+    font-family: 'Aldrich';font-size: 50px;
+    text-align: center;
+    color: white;
+    padding-bottom: 32px;
+}
+
+img{
+    height:50px;
+    width:50px;
+}
+
+@media screen and (max-width: 800px) {
+    h1
+    { 
+    font-size: 20px;
+    }
+    .info-heads{
+        font-size:12px;
+    }
+    img{
+        height:20px;
+        width:20px;
+    }
+}
+
+
+.top-level{
+    background-color: black;
+    padding-bottom: 30px;
+}
+
+.details{
+    color:yellow;
+}
+
+body{
+    margin:0;
+    padding:0;
+}
+
+.info-heads{
+    color:white;
+    padding:10px;
+    margin-left:10px;
+}
+.left{
+    border:1px solid beige;
+}
+.animate{
+    
+}
